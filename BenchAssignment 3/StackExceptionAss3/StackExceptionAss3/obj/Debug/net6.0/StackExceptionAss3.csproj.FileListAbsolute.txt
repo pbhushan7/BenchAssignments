@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\bin\Debug\net6.0\StackExceptionAss3.exe
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\bin\Debug\net6.0\StackExceptionAss3.deps.json
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\bin\Debug\net6.0\StackExceptionAss3.runtimeconfig.json
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\bin\Debug\net6.0\StackExceptionAss3.dll
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\bin\Debug\net6.0\StackExceptionAss3.pdb
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\obj\Debug\net6.0\StackExceptionAss3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\obj\Debug\net6.0\StackExceptionAss3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\obj\Debug\net6.0\StackExceptionAss3.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\obj\Debug\net6.0\StackExceptionAss3.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\obj\Debug\net6.0\StackExceptionAss3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\obj\Debug\net6.0\StackExceptionAss3.dll
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\obj\Debug\net6.0\refint\StackExceptionAss3.dll
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\obj\Debug\net6.0\StackExceptionAss3.pdb
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\obj\Debug\net6.0\StackExceptionAss3.genruntimeconfig.cache
+C:\Users\Admin\source\repos\StackExceptionAss3\StackExceptionAss3\obj\Debug\net6.0\ref\StackExceptionAss3.dll

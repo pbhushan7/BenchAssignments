@@ -1,0 +1,8 @@
+C:\Users\saiki\source\repos\CSharpOOPsAssignment\CSharpOOPsAssignment\obj\Debug\CSharpOOPsAssignment.csproj.AssemblyReference.cache
+C:\Users\saiki\source\repos\CSharpOOPsAssignment\CSharpOOPsAssignment\obj\Debug\CSharpOOPsAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\saiki\source\repos\CSharpOOPsAssignment\CSharpOOPsAssignment\obj\Debug\CSharpOOPsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\saiki\source\repos\CSharpOOPsAssignment\CSharpOOPsAssignment\bin\Debug\CSharpOOPsAssignment.exe.config
+C:\Users\saiki\source\repos\CSharpOOPsAssignment\CSharpOOPsAssignment\bin\Debug\CSharpOOPsAssignment.exe
+C:\Users\saiki\source\repos\CSharpOOPsAssignment\CSharpOOPsAssignment\bin\Debug\CSharpOOPsAssignment.pdb
+C:\Users\saiki\source\repos\CSharpOOPsAssignment\CSharpOOPsAssignment\obj\Debug\CSharpOOPsAssignment.exe
+C:\Users\saiki\source\repos\CSharpOOPsAssignment\CSharpOOPsAssignment\obj\Debug\CSharpOOPsAssignment.pdb

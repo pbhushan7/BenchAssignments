@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\bin\Debug\net6.0\MulticasteDelegates.exe
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\bin\Debug\net6.0\MulticasteDelegates.deps.json
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\bin\Debug\net6.0\MulticasteDelegates.runtimeconfig.json
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\bin\Debug\net6.0\MulticasteDelegates.dll
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\bin\Debug\net6.0\MulticasteDelegates.pdb
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\obj\Debug\net6.0\MulticasteDelegates.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\obj\Debug\net6.0\MulticasteDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\obj\Debug\net6.0\MulticasteDelegates.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\obj\Debug\net6.0\MulticasteDelegates.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\obj\Debug\net6.0\MulticasteDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\obj\Debug\net6.0\MulticasteDelegates.dll
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\obj\Debug\net6.0\refint\MulticasteDelegates.dll
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\obj\Debug\net6.0\MulticasteDelegates.pdb
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\obj\Debug\net6.0\MulticasteDelegates.genruntimeconfig.cache
+C:\Users\Admin\source\repos\MulticasteDelegates\MulticasteDelegates\obj\Debug\net6.0\ref\MulticasteDelegates.dll

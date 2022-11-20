@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\IciciBank\IciciBank\bin\Debug\net6.0\IciciBank.exe
+C:\Users\Admin\source\repos\IciciBank\IciciBank\bin\Debug\net6.0\IciciBank.deps.json
+C:\Users\Admin\source\repos\IciciBank\IciciBank\bin\Debug\net6.0\IciciBank.runtimeconfig.json
+C:\Users\Admin\source\repos\IciciBank\IciciBank\bin\Debug\net6.0\IciciBank.dll
+C:\Users\Admin\source\repos\IciciBank\IciciBank\bin\Debug\net6.0\IciciBank.pdb
+C:\Users\Admin\source\repos\IciciBank\IciciBank\obj\Debug\net6.0\IciciBank.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\IciciBank\IciciBank\obj\Debug\net6.0\IciciBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\IciciBank\IciciBank\obj\Debug\net6.0\IciciBank.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\IciciBank\IciciBank\obj\Debug\net6.0\IciciBank.AssemblyInfo.cs
+C:\Users\Admin\source\repos\IciciBank\IciciBank\obj\Debug\net6.0\IciciBank.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IciciBank\IciciBank\obj\Debug\net6.0\IciciBank.dll
+C:\Users\Admin\source\repos\IciciBank\IciciBank\obj\Debug\net6.0\refint\IciciBank.dll
+C:\Users\Admin\source\repos\IciciBank\IciciBank\obj\Debug\net6.0\IciciBank.pdb
+C:\Users\Admin\source\repos\IciciBank\IciciBank\obj\Debug\net6.0\IciciBank.genruntimeconfig.cache
+C:\Users\Admin\source\repos\IciciBank\IciciBank\obj\Debug\net6.0\ref\IciciBank.dll

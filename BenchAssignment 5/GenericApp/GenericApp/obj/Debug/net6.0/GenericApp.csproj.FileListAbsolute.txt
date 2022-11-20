@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\GenericApp\GenericApp\bin\Debug\net6.0\GenericApp.exe
+C:\Users\Admin\source\repos\GenericApp\GenericApp\bin\Debug\net6.0\GenericApp.deps.json
+C:\Users\Admin\source\repos\GenericApp\GenericApp\bin\Debug\net6.0\GenericApp.runtimeconfig.json
+C:\Users\Admin\source\repos\GenericApp\GenericApp\bin\Debug\net6.0\GenericApp.dll
+C:\Users\Admin\source\repos\GenericApp\GenericApp\bin\Debug\net6.0\GenericApp.pdb
+C:\Users\Admin\source\repos\GenericApp\GenericApp\obj\Debug\net6.0\GenericApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GenericApp\GenericApp\obj\Debug\net6.0\GenericApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\GenericApp\GenericApp\obj\Debug\net6.0\GenericApp.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\GenericApp\GenericApp\obj\Debug\net6.0\GenericApp.AssemblyInfo.cs
+C:\Users\Admin\source\repos\GenericApp\GenericApp\obj\Debug\net6.0\GenericApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GenericApp\GenericApp\obj\Debug\net6.0\GenericApp.dll
+C:\Users\Admin\source\repos\GenericApp\GenericApp\obj\Debug\net6.0\refint\GenericApp.dll
+C:\Users\Admin\source\repos\GenericApp\GenericApp\obj\Debug\net6.0\GenericApp.pdb
+C:\Users\Admin\source\repos\GenericApp\GenericApp\obj\Debug\net6.0\GenericApp.genruntimeconfig.cache
+C:\Users\Admin\source\repos\GenericApp\GenericApp\obj\Debug\net6.0\ref\GenericApp.dll

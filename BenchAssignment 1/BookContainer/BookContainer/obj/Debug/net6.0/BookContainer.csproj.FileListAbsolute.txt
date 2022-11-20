@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BookContainer\BookContainer\bin\Debug\net6.0\BookContainer.exe
+C:\Users\Admin\source\repos\BookContainer\BookContainer\bin\Debug\net6.0\BookContainer.deps.json
+C:\Users\Admin\source\repos\BookContainer\BookContainer\bin\Debug\net6.0\BookContainer.runtimeconfig.json
+C:\Users\Admin\source\repos\BookContainer\BookContainer\bin\Debug\net6.0\BookContainer.dll
+C:\Users\Admin\source\repos\BookContainer\BookContainer\bin\Debug\net6.0\BookContainer.pdb
+C:\Users\Admin\source\repos\BookContainer\BookContainer\obj\Debug\net6.0\BookContainer.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BookContainer\BookContainer\obj\Debug\net6.0\BookContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BookContainer\BookContainer\obj\Debug\net6.0\BookContainer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BookContainer\BookContainer\obj\Debug\net6.0\BookContainer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BookContainer\BookContainer\obj\Debug\net6.0\BookContainer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BookContainer\BookContainer\obj\Debug\net6.0\BookContainer.dll
+C:\Users\Admin\source\repos\BookContainer\BookContainer\obj\Debug\net6.0\refint\BookContainer.dll
+C:\Users\Admin\source\repos\BookContainer\BookContainer\obj\Debug\net6.0\BookContainer.pdb
+C:\Users\Admin\source\repos\BookContainer\BookContainer\obj\Debug\net6.0\BookContainer.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BookContainer\BookContainer\obj\Debug\net6.0\ref\BookContainer.dll

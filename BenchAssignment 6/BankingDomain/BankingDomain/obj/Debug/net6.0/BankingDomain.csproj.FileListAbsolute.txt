@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\bin\Debug\net6.0\BankingDomain.exe
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\bin\Debug\net6.0\BankingDomain.deps.json
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\bin\Debug\net6.0\BankingDomain.runtimeconfig.json
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\bin\Debug\net6.0\BankingDomain.dll
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\bin\Debug\net6.0\BankingDomain.pdb
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\obj\Debug\net6.0\BankingDomain.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\obj\Debug\net6.0\BankingDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\obj\Debug\net6.0\BankingDomain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\obj\Debug\net6.0\BankingDomain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\obj\Debug\net6.0\BankingDomain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\obj\Debug\net6.0\BankingDomain.dll
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\obj\Debug\net6.0\refint\BankingDomain.dll
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\obj\Debug\net6.0\BankingDomain.pdb
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\obj\Debug\net6.0\BankingDomain.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BankingDomain\BankingDomain\obj\Debug\net6.0\ref\BankingDomain.dll

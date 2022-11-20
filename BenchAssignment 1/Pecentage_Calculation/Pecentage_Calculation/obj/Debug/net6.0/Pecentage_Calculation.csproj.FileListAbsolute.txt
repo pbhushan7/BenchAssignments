@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\bin\Debug\net6.0\Pecentage_Calculation.exe
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\bin\Debug\net6.0\Pecentage_Calculation.deps.json
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\bin\Debug\net6.0\Pecentage_Calculation.runtimeconfig.json
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\bin\Debug\net6.0\Pecentage_Calculation.dll
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\bin\Debug\net6.0\Pecentage_Calculation.pdb
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\obj\Debug\net6.0\Pecentage_Calculation.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\obj\Debug\net6.0\Pecentage_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\obj\Debug\net6.0\Pecentage_Calculation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\obj\Debug\net6.0\Pecentage_Calculation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\obj\Debug\net6.0\Pecentage_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\obj\Debug\net6.0\Pecentage_Calculation.dll
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\obj\Debug\net6.0\refint\Pecentage_Calculation.dll
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\obj\Debug\net6.0\Pecentage_Calculation.pdb
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\obj\Debug\net6.0\Pecentage_Calculation.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Pecentage_Calculation\Pecentage_Calculation\obj\Debug\net6.0\ref\Pecentage_Calculation.dll

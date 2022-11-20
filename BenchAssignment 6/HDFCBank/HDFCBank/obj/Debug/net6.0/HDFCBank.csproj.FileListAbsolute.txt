@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\bin\Debug\net6.0\HDFCBank.exe
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\bin\Debug\net6.0\HDFCBank.deps.json
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\bin\Debug\net6.0\HDFCBank.runtimeconfig.json
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\bin\Debug\net6.0\HDFCBank.dll
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\bin\Debug\net6.0\HDFCBank.pdb
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\obj\Debug\net6.0\HDFCBank.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\obj\Debug\net6.0\HDFCBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\obj\Debug\net6.0\HDFCBank.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\obj\Debug\net6.0\HDFCBank.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\obj\Debug\net6.0\HDFCBank.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\obj\Debug\net6.0\HDFCBank.dll
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\obj\Debug\net6.0\refint\HDFCBank.dll
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\obj\Debug\net6.0\HDFCBank.pdb
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\obj\Debug\net6.0\HDFCBank.genruntimeconfig.cache
+C:\Users\Admin\source\repos\HDFCBank\HDFCBank\obj\Debug\net6.0\ref\HDFCBank.dll
